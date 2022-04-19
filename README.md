@@ -1,6 +1,6 @@
 # This repo is for sale 
 <p align="center">
-  <img src="assets/logo.jpg" alt="Eva Maria Logo">
+  <img src="https://telegra.ph/file/bfe95b0116b7dac9bb861.png" alt="mr joker ">
 </p>
 <h1 align="center">
   <b>Eva Maria Bot</b>
