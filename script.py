@@ -1,7 +1,7 @@
 class Script(object):
     START_TXT = """Hᴇʟʟᴏ {},
 
- Mʏ Nᴀᴍᴇ ɪs ᎷᏦ [ ᏞᏆᏞᏞᎽ ]🔖
+ Mʏ Nᴀᴍᴇ ɪs <a href=https://t.me/{}>{}</a>, 
 <b>ʜᴇʟʟᴏ ᴍʏ ʙʀᴏᴛʜᴇʀs ᴀɴᴅ sɪsᴛᴇʀs ɴɪᴄᴇ ᴛᴏ ᴍᴇᴇᴛ ʏᴏᴜ sᴇᴇ ᴍʏ ᴄᴏᴍᴍᴀɴᴅs ᴀɴᴅ ɢɪᴠᴇ ɴᴇsᴛ ᴀɴᴅ ʀᴇᴀᴅ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs ᴀɴᴅ ᴜsᴇ ᴛʜᴀᴛ's ʏᴏᴜ ᴄᴀɴ sᴇᴇ ᴍᴏʀᴇ ғᴇᴀᴛᴜʀᴇs ᴀɴᴅ ᴀᴅᴅ ʏᴏᴜ ɢʀᴏᴜᴘ ᴀs ᴀᴅᴍɪɴ ʟɪʟʟʏ ᴀɴᴅ ᴇɴᴊᴏʏ🧰</b>"""
     
     E_TXT = """hey"""
@@ -587,11 +587,11 @@ Tʜɪs ᴍᴏᴅᴜʟᴇ ᴏɴʟʏ ᴡᴏʀᴋs ғᴏʀ ᴍʏ ᴀᴅᴍɪɴs
   █▀ ▀█▀ ▄▀█ ▀█▀ █▀
 ▄█ ░█░ █▀█ ░█░ ▄█
 
-🗂️<b>Tᴏᴛᴀʟ Fɪʟᴇs</b>: 900670
-👥Total users : 5600
-💖Total Chats:  2507
-⛽Used Storage:</b> 259 MIB
-🛢️Free Storage:</b> 500 MiB"""
+🗂️Tᴏᴛᴀʟ Fɪʟᴇs: {}
+👥Total users: {}
+💖Total Chats: {}
+⛽Used Storage: {}
+🛢️Free Storage: {}"""
 
     FORCESUB_TXT = """**♦️ READ THIS INSTRUCTION ♦️**
 
