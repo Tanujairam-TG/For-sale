@@ -21,7 +21,7 @@ class Script(object):
 <b>Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>➥Mʏ ɴᴀᴍᴇ: {}
-➥ Cʀᴇᴀᴛᴏʀ: @Doctor6689
+➥ Cʀᴇᴀᴛᴏʀ: Tanujairam
 ➥  Hᴇʟᴘᴇʀ : ɴᴏ sɪɴɢʟᴇ ᴘᴇʀsᴏɴ ɴᴇᴇᴅ ᴛᴏ ʜᴇʟᴘ
 ➥ Language: Eɴɢʟɪsʜ
 ➥ Data Base: Pʀɪᴠᴀᴛᴇ
