@@ -22,11 +22,10 @@ class Script(object):
 
     ABOUT_TXT = """<b>➥Mʏ ɴᴀᴍᴇ: {}
 ➥ Cʀᴇᴀᴛᴏʀ: Tanujairam
-➥  Hᴇʟᴘᴇʀ : ɴᴏ sɪɴɢʟᴇ ᴘᴇʀsᴏɴ ɴᴇᴇᴅ ᴛᴏ ʜᴇʟᴘ
-➥ Language: Eɴɢʟɪsʜ
-➥ Data Base: Pʀɪᴠᴀᴛᴇ
-➥ Bot Server: Pʀɪᴠᴀᴛᴇ
-➥ Build Status: v68.0.1 [ Beta ]"""
+➥ Language: Python
+➥ Data Base: Mango db
+➥ Bot Server: Heroku
+➥ Build Status: [ Beta ]"""
     RAJ_TXT = """4th MODULES
 """
     SOURCE_TXT = """<b>Source:</b>
